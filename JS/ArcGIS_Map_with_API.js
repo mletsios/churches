@@ -119,7 +119,7 @@ require([
                 value: "1",
                 symbol: {
                     type: "picture-marker",
-                    url: "https://cdn-icons-png.flaticon.com/512/140/140149.png",
+                    url: "./img/symbol_church_1.png",
                     width: "15px"
                 }
             },
@@ -129,7 +129,7 @@ require([
                 value: "2",
                 symbol: {
                     type: "picture-marker", 
-                    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMyItVLtL_aslhfAfn7wD5GSkVL5hAGAwrw5FSRllY4H3HIUJCjYh1RCOaDiHfASSU5Dg&usqp=CAU",
+                    url: "./img/symbol_church_2.png",
                     width: "15px"
                 }
             },
@@ -139,7 +139,7 @@ require([
                 value: "3",
                 symbol: {
                     type: "picture-marker", 
-                    url: "https://st.depositphotos.com/1041273/4460/v/450/depositphotos_44606909-stock-illustration-church-icon.jpg",
+                    url: "./img/symbol_church_3.png",
                     width: "15px"
                 }
             },],
